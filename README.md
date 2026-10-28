@@ -64,5 +64,22 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Speedtest Tracker is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://github.com/alexjustesen/speedtest-tracker
+Speedtest Tracker is a self‑hosted application that monitors internet performance and uptime. Built with Laravel and the Ookla Speedtest CLI, it can be deployed via Docker and provides a web UI, API, and extensive documentation. The project aims to give users a historical view of their connection quality and ISP reliability, offering dashboards, notifications, and integrations for personal or community use.
+
+**Areas:** Company · Self-Hosted · Monitoring · Speedtest · Docker · Open-Source
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://docs.speedtest-tracker.dev/)
+- [Documentation](https://docs.speedtest-tracker.dev)
+- [Getting started](https://docs.speedtest-tracker.dev/getting-started/installation)
+- [Changelog](https://docs.speedtest-tracker.dev/releases)
+- [GitHub](https://github.com/henrywhitaker3/Speedtest-Tracker)
+
+**APIs profiled:** 2
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/speedtest-tracker/](https://apis.io/providers/speedtest-tracker/).
